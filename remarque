@@ -1,0 +1,45 @@
+
+ta7sin 
+fonction ili fi escape drouj 
+
+
+
+
+
+na9is : 
+animation
+joueur 2 
+vie score fil affichage 
+
+
+
+7aja plus 
+programe i5alih supliquer anime fechla
+void animerPerso (personne* p) 
+{ int posx ,posy ,posxs,posys ;
+ 
+
+posx =p->pos_Screen.x ; 
+posy=p->pos_Screen.y  ;
+
+posxs =p->pos_Sprite.w  ; 
+posys =p->pos_Sprite.h ; 
+
+if (p->pos_Screen.y>=400 || p->pos_Screen.y>=400 && (p->pos_Screen.x>=400&&p->pos_Screen.x)<=500 || (p->pos_Screen.x+p->pos_Sprite.w)>=400)
+{p->pos_Sprite.w =p->pos_Sprite.w +213 ; 
+ //p->pos_Sprite.h = 0 ;
+/*p->pos_Screen.x=0 ; 
+p->pos_Screen.y=0; 
+
+p->pos_Sprite.w=213; 
+p->pos_Sprite.h=262 ;
+
+imgbtn->pos_img_ecran .x=400; w =100 h=100
+imgbtn->pos_img_ecran.y=300 ;*/
+
+}
+else 
+{
+p->pos_Sprite.w =posxs ;
+p->pos_Sprite.h = posys ;}
+}

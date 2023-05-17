@@ -1,0 +1,15 @@
+wa9tech cha9an el fatr?
+A-6:30 
+B-6:40 
+C-8:50 
+1 
+Forgetful, but remembered?
+A-Thought?
+B-Dream?
+C-Memory?
+3
+Lost, but found?
+A-Name
+B-Key
+C-Wallet
+1
