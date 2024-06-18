@@ -56,6 +56,8 @@ To run the game, simply navigate to the project directory and execute the follow
 If the game doesn't work as expected, try deleting the contents of the `best.txt` file and then retry running the game.
 
 **Credits** 
+-----------------
+
 Art/Puzzles: Aziz Maatoug
 Character Development: Chaima Naanaa
 Minimap: Siwar Chayada
