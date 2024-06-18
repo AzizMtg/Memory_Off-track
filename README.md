@@ -1,4 +1,4 @@
-![e](https://github.com/AzizMtg/Memory_Off-track/assets/131389390/1b98724f-a7bc-4be0-b369-1b4810e0da02)![card or whatever](https://github.com/AzizMtg/Memory_Off-track/assets/131389390/f736ea48-68c3-4403-8cee-38377c325294)Here is an updated version of the README file:
+
 
 **Memory Off-track**
 =====================
