@@ -58,10 +58,10 @@ If the game doesn't work as expected, try deleting the contents of the `best.txt
 **Credits** 
 -----------------
 
-Art/Puzzles: Aziz Maatoug
-Character Development: Chaima Naanaa
-Minimap: Siwar Chayada
-Scoring System and Menu: Khalil Triki
+*Art/Puzzles*: Aziz Maatoug
+*Character Development*: Chaima Naanaa
+*Minimap*: Siwar Chayada
+*Background*: Khalil Triki
 
 **Note**
 -----
